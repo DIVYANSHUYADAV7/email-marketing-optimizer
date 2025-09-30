@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+/data/*.csv
+model.joblib
+.DS_Store
+.ipynb_checkpoints/
