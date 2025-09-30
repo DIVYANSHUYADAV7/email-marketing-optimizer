@@ -1,0 +1,14 @@
+email-marketing-optimizer/
+├─ README.md
+├─ requirements.txt
+├─ .gitignore
+├─ data/
+│  └─ generate_sample_data.py
+├─ src/
+│  ├─ __init__.py
+│  ├─ features.py
+│  ├─ trainer.py
+│  ├─ evaluate.py
+│  └─ email_template.py
+└─ notebooks/
+   └─ quick-demo.ipynb  (optional - not included here)
